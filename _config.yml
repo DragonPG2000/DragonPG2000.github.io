@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Sunil
 middle_name:
 last_name: Kumar
-email: sunil_kumarn@protonmail.com
+email: skumar704@gatech.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I solemly swear I'm upto no good. 
 footer_text: >
@@ -107,7 +107,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: gaussianerf # your X handle
+x_username: gaussiannerf # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 

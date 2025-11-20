@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Sunil
 middle_name:
 last_name: Kumar
-email: skumar704@gatech.edu
+email: skumarn704@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I solemly swear I'm upto no good. 
 footer_text: >
@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: profile_pic.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://DragonPG2000.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root

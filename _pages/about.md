@@ -13,8 +13,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-To those who stumble here. Hey! I am Sunil, a Master's student at [Georgia Tech](https://www.cc.gatech.edu/). My research primarily focuses on 3D Computer Vision. I am interested in problems dealing with the intersection of 3D Perception and Autonomous driving. 
+To those who stumble here. Hey! I am Sunil. I completed my Master's at [Georgia Tech](https://www.cc.gatech.edu/), where I was advised by [Dr. Lu Gan](https://ganlumomo.github.io/). My research focused on 3D scene understanding for hyperspectral environments. 
 
-Currently I am working with [Yongsheng Chen](https://ce.gatech.edu/directory/person/yongsheng-chen) and [Lu Gan](https://ganlumomo.github.io/) on problems relating to 3D reconstruction of Hyperspectral Imaging environments for Agricultural applications. 
+I am now an Applied Researcher at [Geomagical Labs](https://geomagical.com/), working on world models for IKEA's virtual furnishing applications.
 
 Feel free to contact me via email if you want to discuss a collaboration or just a friendly chat :)

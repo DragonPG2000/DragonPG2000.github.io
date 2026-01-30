@@ -27,6 +27,18 @@
   },
   "work": [
     {
+      "name": "Geomagical Labs",
+      "position": "Applied Researcher",
+      "url": "https://geomagical.com/",
+      "location": "",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "World models research for IKEA's virtual furnishing applications.",
+      "highlights": [
+        "World models for virtual furnishing applications"
+      ]
+    },
+    {
       "name": "Georgia Institute of Technology",
       "position": "Research Assistant",
       "url": "",

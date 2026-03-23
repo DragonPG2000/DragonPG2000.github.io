@@ -13,8 +13,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-To those who stumble here. Hey! I am Sunil. I completed my Master's at [Georgia Tech](https://www.cc.gatech.edu/), where I was advised by [Dr. Lu Gan](https://ganlumomo.github.io/). My research focused on 3D scene understanding for hyperspectral environments. 
+Hi there! I’m Sunil, and I’m currently an Applied Researcher at [Geomagical Labs](https://geomagical.com/), where I work on world models that power IKEA’s virtual furnishing experiences. 
 
-I am now an Applied Researcher at [Geomagical Labs](https://geomagical.com/), working on world models for IKEA's virtual furnishing applications.
+Prior to this, I completed my Master’s at [Georgia Tech](https://www.cc.gatech.edu/), advised by [Dr. Lu Gan](https://ganlumomo.github.io/). There, I spent my time exploring 3D scene representations, with a special focus on hyperspectral environments.
 
-Feel free to contact me via email if you want to discuss a collaboration or just a friendly chat :)
+If you’re interested in collaboration, want to geek out about research, or just want to say hello, please feel free to reach out by email. I always enjoy connecting with new people!
